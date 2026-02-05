@@ -1,14 +1,17 @@
 # python-learning-journey
 Step-by-step Learning Python from scratch with examples, notes, and practice code
 
-this repo contain my personal step by step journy on learning python with my own notes and it aim to mastring python
+This repo contains my personal step-by-step journey for learning Python with my own notes, and it aims to master Python
 
 ## Current Progress
-- Python fundamentals
-- Data structures
-- Object-Oriented Programming
-- Exceptions and File Handling
+- variables
+- escape sequence characters
+- concatenation
+- string and its format
+- numbers
+- arithmetic operators
+- lists
 ## How to Use
-This is a reference for my own learning
-Anyone can follow along, try the examples, and take notes
-The repository is organized into folders
+- This is a reference for my own learning
+- Anyone can follow along, try the examples, and take notes
+- The repository is organized into folders
