@@ -1,6 +1,7 @@
 # python-learning-journey
 Step-by-step Learning Python from scratch with examples, notes, and practice code
 
+## Description
 This repo contains my personal step-by-step journey for learning Python with my own notes, and it aims to master Python
 
 ## Current Progress
